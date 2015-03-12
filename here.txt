@@ -1,3 +1,5 @@
 Hello and see me !
 You look fine !
+<<<<<<< HEAD
 And you are the best one!
+This is just a test!
