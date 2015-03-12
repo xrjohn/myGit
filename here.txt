@@ -1,2 +1,6 @@
 Hello and see me !
-You look bad !
+<<<<<<< HEAD
+You look fine !
+=======
+You look fine !
+>>>>>>> divid
